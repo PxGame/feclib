@@ -1,0 +1,7 @@
+LIBRARY reedsolomon
+EXPORTS
+	ReedSolomon_Init @1
+	ReedSolomon_Encode @2
+	ReedSolomon_Reconstruct @3
+	ReedSolomon_Create @4
+	ReedSolomon_Release @5
